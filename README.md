@@ -1,4 +1,4 @@
-# AudioProcessingMiniProject
-Repository for the audio processing mini project by Peter Babo.
+# PingPongDelay
 
-Currently the function doesn't pan and the plugin file doesn't work.
+Mini project for the Audio processing course taken on Aalborg University Copenhagen.
+Simple implementation of a ping pong delay effect in MATLAB.
